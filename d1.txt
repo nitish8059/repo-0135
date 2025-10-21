@@ -1,4 +1,6 @@
-//story-121
 a=1
 b=2
 c=a+b
+//changes for story-131
+int i = 10
+int j = 20
